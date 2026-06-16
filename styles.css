@@ -1,0 +1,27 @@
+/* 2 minutos */
+.barra-verde {
+    background-color: #198754; 
+    color: white;
+    transition: background-color 0.5s ease;
+}
+
+/* 1 minuto */
+.barra-naranja {
+    background-color: #fd7e14;
+    color: white;
+    transition: background-color 0.5s ease;
+}
+
+/*menos de 30 segundos */
+.barra-rojo {
+    background-color: #dc3545;
+    color: white;
+    transition: background-color 0.5s ease;
+}
+
+/* Tiempo agotado */
+.barra-negro {
+    background-color: #212529;
+    color: #ffffff !important;
+    transition: background-color 0.5s ease;
+}
